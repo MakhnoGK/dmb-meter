@@ -18,5 +18,6 @@ body {
   #pb-timer .pb-timer__text {
     text-align: center;
     line-height: 2em;
-    font-weight: bold; }
+    font-weight: bold;
+    color: #444 !important; }
 
